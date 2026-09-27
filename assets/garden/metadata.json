@@ -1,6 +1,7 @@
 {
   "scene_id": "garden",
   "scene_name": "Imaginary Garden",
+  "thumbnail_url": "/assets/garden/thumbnail.png",
   "asset_url": "/assets/garden/scene.spz",
   "initial_camera": {
     "position": { "x": 17.35, "y": 11.65, "z": -0.12 },

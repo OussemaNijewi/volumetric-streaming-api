@@ -1,6 +1,7 @@
 {
   "scene_id": "spaceRover",
   "scene_name": "Space Rover",
+  "thumbnail_url": "/assets/spaceRover/thumbnail.png",
   "asset_url": "/assets/spaceRover/scene.spz",
   "initial_camera": {
     "position": { "x": -0.03, "y": 1.98, "z": -6.69 },

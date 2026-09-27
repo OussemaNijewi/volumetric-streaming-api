@@ -1,6 +1,7 @@
 {
   "scene_id": "mazdaCar",
   "scene_name": "Mazda Convertible Car",
+  "thumbnail_url": "/assets/car/thumbnail.png",
   "asset_url": "/assets/car/scene.spz",
   "initial_camera": {
     "position": { "x": -3.24, "y": -0.21, "z": -0.63 },
