@@ -1,0 +1,59 @@
+### Python Template ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging / virtual environments
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments (highly recommended to exclude)
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+### PyCharm / JetBrains Template ###
+# User-specific or local configurations that shouldn't be shared
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionary.xml
+.idea/sonarlint/
+
+# Owner-specific or local data sources/caches
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# CMake / Gradle / build tool generated files inside .idea
+.idea/gradle.xml
+.idea/libraries/
+
+# Mongo / database settings
+.idea/mongoSettings.xml
+
+# Log files and crash dumps
+*.log
