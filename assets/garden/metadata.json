@@ -1,0 +1,149 @@
+{
+  "scene_id": "garden",
+  "scene_name": "Imaginary Garden",
+  "asset_url": "/assets/garden/scene.spz",
+  "initial_camera": {
+    "position": { "x": 17.35, "y": 11.65, "z": -0.12 },
+    "target": { "x": 2.64, "y": 2.49, "z": -2.61 }
+  },
+  "hotspots": [
+    {
+      "id": "1",
+      "label": "vase",
+      "title": "Flower Vase",
+      "description": "a container used to display fresh or artificial blooms while incorporating internal accents—such as pebbles, glass beads, or natural elements—to stabilize stems, hide mechanics, or add visual depth.",
+      "hotspot_position": {
+        "x": 2.7,
+        "y": 2.54,
+        "z": -2.33
+      },
+      "camera_flight": {
+        "position": {
+          "x": 6.03,
+          "y": 4.37,
+          "z": -2
+        },
+        "target": {
+          "x": 2.7,
+          "y": 2.54,
+          "z": -2.33
+        }
+      }
+    },
+    {
+      "id": "2",
+      "label": "grill",
+      "title": "Small Grill",
+      "description": "The Classic 22-Inch Charcoal Kettle Grill delivers exceptional heat retention and reliable outdoor performance for ultimate backyard cooking.",
+      "hotspot_position": {
+        "x": 2.52,
+        "y": 3.11,
+        "z": 1.16
+      },
+      "camera_flight": {
+        "position": {
+          "x": 4.46,
+          "y": 4.95,
+          "z": 2.8
+        },
+        "target": {
+          "x": 2.52,
+          "y": 3.11,
+          "z": 1.16
+        }
+      }
+    },
+    {
+      "id": "3",
+      "label": "chair",
+      "title": "Wooden Chair",
+      "description": "Crafted from durable, weather-resistant timber, it features a supportive slatted back and deep seat designed for relaxing on patios, lawns, or balconies.",
+      "hotspot_position": {
+        "x": 2.69,
+        "y": 2.54,
+        "z": 6.36
+      },
+      "camera_flight": {
+        "position": {
+          "x": 7.75,
+          "y": 7.03,
+          "z": 10.06
+        },
+        "target": {
+          "x": 2.69,
+          "y": 2.54,
+          "z": 6.36
+        }
+      }
+    },
+    {
+      "id": "4",
+      "label": "mailBox",
+      "title": "Mail Box",
+      "description": "serves as a delightful focal point, nestled among blooming flowers and lush greenery. Combining functional utility with outdoor aesthetics, it greets visitors and passersby with a touch of warmth and personality.",
+      "hotspot_position": {
+        "x": 0.89,
+        "y": 3.54,
+        "z": 4.35
+      },
+      "camera_flight": {
+        "position": {
+          "x": 0.76,
+          "y": 4.83,
+          "z": 8.11
+        },
+        "target": {
+          "x": 0.89,
+          "y": 3.54,
+          "z": 4.35
+        }
+      }
+    },
+    {
+      "id": "5",
+      "label": "elf",
+      "title": "Elf Decoration",
+      "description": "a small, decorative outdoor statue or mythical figure resembling a whimsical elf, sprite, or gnome that is placed in yards and gardens to add a touch of magic and charm.",
+      "hotspot_position": {
+        "x": -4.74,
+        "y": 2.29,
+        "z": 2.45
+      },
+      "camera_flight": {
+        "position": {
+          "x": -4.86,
+          "y": 3.57,
+          "z": 6.16
+        },
+        "target": {
+          "x": -4.74,
+          "y": 2.29,
+          "z": 2.45
+        }
+      }
+    },
+    {
+      "id": "6",
+      "label": "table",
+      "title": "Greenhouse Table",
+      "description": "a solid weathered teak table featuring a classic trestle base and a slatted rectangular top that extends for larger gatherings.",
+      "hotspot_position": {
+        "x": -1.29,
+        "y": 3.44,
+        "z": -3.5
+      },
+      "camera_flight": {
+        "position": {
+          "x": 0.16,
+          "y": 5.53,
+          "z": -6
+        },
+        "target": {
+          "x": -1.29,
+          "y": 3.44,
+          "z": -3.5
+        }
+      }
+    }
+  ]
+}

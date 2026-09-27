@@ -1,0 +1,241 @@
+{
+  "scene_id": "spaceRover",
+  "scene_name": "Space Rover",
+  "asset_url": "/assets/spaceRover/scene.spz",
+  "initial_camera": {
+    "position": { "x": -0.03, "y": 1.98, "z": -6.69 },
+    "target": { "x": 0.12, "y": 1.05, "z": -0.56 }
+  },
+  "hotspots": [
+    {
+      "id": "1",
+      "label": "wheel",
+      "title": "Aluminum wheels",
+      "description": "The perseverance Rover has six aluminum wheels",
+      "hotspot_position": {
+        "x": 1.15,
+        "y": 0.35,
+        "z": 1.25
+      },
+      "camera_flight": {
+        "position": {
+          "x": 2.16,
+          "y": 0.59,
+          "z": 1.3
+        },
+        "target": {
+          "x": 1.15,
+          "y": 0.35,
+          "z": 1.25
+        }
+      }
+    },
+    {
+      "id": "2",
+      "label": "drill",
+      "title": "Coring Drill",
+      "description": "The perseverance Rover uses the core drill to extract samples from the Martian surface",
+      "hotspot_position": {
+        "x": -0.4,
+        "y": 1.99,
+        "z": -2.12
+      },
+      "camera_flight": {
+        "position": {
+          "x": -0.05,
+          "y": 2.07,
+          "z": -2.12
+        },
+        "target": {
+          "x": -0.4,
+          "y": 1.99,
+          "z": -2.12
+        }
+      }
+    },
+    {
+      "id": "3",
+      "label": "navcam",
+      "title": "Engineering Camera",
+      "description": "The engineering navigation cameras (NVACAM) capture images of the terrain which can be used to help with rover navigation.",
+      "hotspot_position": {
+        "x": 0.64,
+        "y": 2.08,
+        "z": -0.73
+      },
+      "camera_flight": {
+        "position": {
+          "x": 0.76,
+          "y": 2.15,
+          "z": -1.22
+        },
+        "target": {
+          "x": 0.64,
+          "y": 2.08,
+          "z": -0.73
+        }
+      }
+    },
+    {
+      "id": "4",
+      "label": "supercam",
+      "title": "Laser micro-imager (SUPERCAM)",
+      "description": "The laser micro-imager (SUPERCAM) is a remote-sensing instrument used for spectral analyses.",
+      "hotspot_position": {
+        "x": 0.38,
+        "y": 2.2,
+        "z": -0.56
+      },
+      "camera_flight": {
+        "position": {
+          "x": -0.03,
+          "y": 2.36,
+          "z": -1.33
+        },
+        "target": {
+          "x": 0.38,
+          "y": 2.2,
+          "z": -0.56
+        }
+      }
+    },
+    {
+      "id": "5",
+      "label": "moxie",
+      "title": "MOXIE Oxygen producer",
+      "description": "MOXIE has produce oxygen from carbon dioxide in the Martian atmosphere using solid oxide electrolysis.",
+      "hotspot_position": {
+        "x": 0.51,
+        "y": 0.98,
+        "z": -0.37
+      },
+      "camera_flight": {
+        "position": {
+          "x": 1.01,
+          "y": 1.52,
+          "z": -0.43
+        },
+        "target": {
+          "x": 0.51,
+          "y": 0.98,
+          "z": -0.37
+        }
+      }
+    },
+    {
+      "id": "6",
+      "label": "powerSupply",
+      "title": "Plutonium-based power supply",
+      "description": "The radioisotope thermoelectric generator (RTG) powers the rover using the heat of plutonium's radioactive decay.",
+      "hotspot_position": {
+        "x": -0.08,
+        "y": 1.4,
+        "z": 1.42
+      },
+      "camera_flight": {
+        "position": {
+          "x": -0.08,
+          "y": 2.9,
+          "z": 1.44
+        },
+        "target": {
+          "x": -0.08,
+          "y": 1.4,
+          "z": 1.42
+        }
+      }
+    },
+    {
+      "id": "7",
+      "label": "rimfax",
+      "title": "Radar Imager for Mars' subsurface experiment (RIMFAX)",
+      "description": "RIMFAX is a ground-penetrating radar designed to help scientists see below the martian surface. It is the first radar of its kind to reside on the ground of the Red Planet and may penetrate to depths over 30 feet (10 meters).",
+      "hotspot_position": {
+        "x": -0.04,
+        "y": 0.73,
+        "z": 1.34
+      },
+      "camera_flight": {
+        "position": {
+          "x": 0.01,
+          "y": 0.22,
+          "z": 2.93
+        },
+        "target": {
+          "x": -0.04,
+          "y": 0.73,
+          "z": 1.34
+        }
+      }
+    },
+    {
+      "id": "8",
+      "label": "arm",
+      "title": "Robotic arm",
+      "description": "The 7-foot robotic arm has flexibility through three joints with five degrees of freedom.",
+      "hotspot_position": {
+        "x": -0.5,
+        "y": 1.07,
+        "z": -2.06
+      },
+      "camera_flight": {
+        "position": {
+          "x": 1.72,
+          "y": 2.3,
+          "z": -3.14
+        },
+        "target": {
+          "x": -0.5,
+          "y": 1.07,
+          "z": -2.06
+        }
+      }
+    },
+    {
+      "id": "9",
+      "label": "suspension",
+      "title": "Suspension",
+      "description": "The \"rocker-bogie\" suspension system helps the rover drive over the varied Martian terrain.",
+      "hotspot_position": {
+        "x": 0.77,
+        "y": 0.89,
+        "z": 0.3
+      },
+      "camera_flight": {
+        "position": {
+          "x": 1.4,
+          "y": 1.73,
+          "z": 0.32
+        },
+        "target": {
+          "x": 0.77,
+          "y": 0.89,
+          "z": 0.3
+        }
+      }
+    },
+    {
+      "id": "10",
+      "label": "differential",
+      "title": "Differential",
+      "description": "A pivot in the top deck's center connects it to the left and right rockers and the rover body.",
+      "hotspot_position": {
+        "x": 0.1,
+        "y": 1.27,
+        "z": 0.23
+      },
+      "camera_flight": {
+        "position": {
+          "x": 0.47,
+          "y": 2.19,
+          "z": -0.26
+        },
+        "target": {
+          "x": 0.1,
+          "y": 1.27,
+          "z": 0.23
+        }
+      }
+    }
+  ]
+}
