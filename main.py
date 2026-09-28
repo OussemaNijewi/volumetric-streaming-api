@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
-from api import routes as scenes_router
+from api.routes import router as scenes_router
 import os
 
 # create a FastAPI instance to define routes, middleware and events, etc ..
