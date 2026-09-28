@@ -4,8 +4,12 @@
   "thumbnail_url": "/assets/car/thumbnail.png",
   "asset_url": "/assets/car/scene.spz",
   "initial_camera": {
-    "position": { "x": -3.24, "y": -0.21, "z": -0.63 },
-    "target": { "x": -1.16, "y": -0.86, "z": -0.27 }
+    "position": { "x": -4.235, "y": 0.345, "z": 2.084 },
+    "target": { "x": -1.046, "y": -0.585, "z": -0.036 },
+    "fov": 85
+  },
+  "model_transform": {
+    "rotation": { "x": 0, "y": 0, "z": 180 }
   },
   "hotspots": [
     {
@@ -14,20 +18,20 @@
       "title": "Mazda Logo",
       "description": ", introduced in 1997 and refined over time, is inspired by the letter \"M\" stylized as a pair of outstretched wings inside an oval. Designed by Rei Yoshimara, the elegant V-shaped wings symbolize continuous growth, flexible thinking, creativity, and the freedom to soar into the future.",
       "hotspot_position": {
-        "x": -1.53,
-        "y": -0.71,
-        "z": -0.35
+        "x": -1.524,
+        "y": -0.713,
+        "z": -0.349
       },
       "camera_flight": {
         "position": {
-          "x": -2.2,
-          "y": -0.2,
-          "z": -0.45
+          "x": -2.286,
+          "y": 0.067,
+          "z": -0.420
         },
         "target": {
-          "x": -1.53,
-          "y": -0.71,
-          "z": -0.35
+          "x": -1.219,
+          "y": -1.039,
+          "z": -0.318
         }
       }
     },
@@ -37,20 +41,20 @@
       "title": "Standard 19 inch wheel",
       "description": "Mazda 3: Factory rim sizes range from 16x6.5 inches on base trims up to 18x7 inches on higher or turbo trims. Most modern generations use a standard 5x114.3mm bolt pattern and a 67.1mm center bore.",
       "hotspot_position": {
-        "x": -0.98,
-        "y": -0.93,
-        "z": -0.92
+        "x": -0.977,
+        "y": -0.925,
+        "z": -0.921
       },
       "camera_flight": {
         "position": {
-          "x": -1.33,
-          "y": -0.89,
-          "z": -1.57
+          "x": -1.373,
+          "y": -0.229,
+          "z": -2.240
         },
         "target": {
-          "x": -0.98,
-          "y": -0.93,
-          "z": -0.92
+          "x": -0.829,
+          "y": -1.167,
+          "z": -0.460
         }
       }
     },
@@ -60,20 +64,20 @@
       "title": "Cheetah's Eye Headlight",
       "description": " When Mazda introduced the first generation of its Kodo design language, designers explicitly drew inspiration from the focused, intense eyes of a cheetah stalked and ready to pounce on its prey. This inspired the inner circular LED rings surrounded by sharp, predatory outer lens housing.",
       "hotspot_position": {
-        "x": -1.38,
-        "y": -0.68,
-        "z": 0.13
+        "x": -1.370,
+        "y": -0.691,
+        "z": 0.143
       },
       "camera_flight": {
         "position": {
-          "x": -2.28,
-          "y": -0.56,
-          "z": 0.49
+          "x": -2.031,
+          "y": -0.111,
+          "z": 0.876
         },
         "target": {
-          "x": -1.38,
-          "y": -0.68,
-          "z": 0.13
+          "x": -0.829,
+          "y": -1.167,
+          "z": -0.460
         }
       }
     },
@@ -83,20 +87,20 @@
       "title": "Side Mirror",
       "description": "Mazda crafts its side mirror housings using the \"Kodo: Soul of Motion\" design language, mirroring organic, fluid lines found in nature to reduce wind noise and drag.",
       "hotspot_position": {
-        "x": -0.23,
-        "y": -0.48,
-        "z": 0.56
+        "x": -0.258,
+        "y": -0.440,
+        "z": 0.569
       },
       "camera_flight": {
         "position": {
-          "x": -0.55,
-          "y": -0.25,
-          "z": 1.41
+          "x": 0.145,
+          "y": -0.126,
+          "z": 1.061
         },
         "target": {
-          "x": -0.23,
-          "y": -0.48,
-          "z": 0.56
+          "x": -0.829,
+          "y": -1.167,
+          "z": -0.460
         }
       }
     },
@@ -106,20 +110,20 @@
       "title": "Steering Wheel",
       "description": " Mazda applies the Japanese principle of miyabei (elegance by removing the unnecessary) and shibui (subtle, unobtrusive beauty) to cockpit ergonomics.",
       "hotspot_position": {
-        "x": -0.05,
-        "y": -0.05,
-        "z": 0.13
+        "x": -0.167,
+        "y": -0.447,
+        "z": 0.028
       },
       "camera_flight": {
         "position": {
-          "x": 0.29,
-          "y": -0.25,
-          "z": 0.36
+          "x": 0.516,
+          "y": -0.009,
+          "z": 0.579
         },
         "target": {
-          "x": -0.05,
-          "y": -0.05,
-          "z": 0.13
+          "x": -0.829,
+          "y": -1.167,
+          "z": -0.460
         }
       }
     },
@@ -129,20 +133,20 @@
       "title": "AC Vent",
       "description": "Jet-Engine Aesthetic: The round eyeball architecture mimics vintage aircraft afterburners or turbine cowlings, evoking a sense of speed and mechanical engagement.",
       "hotspot_position": {
-        "x": -0.08,
-        "y": -0.53,
-        "z": -0.58
+        "x": -0.142,
+        "y": -0.553,
+        "z": -0.619
       },
       "camera_flight": {
         "position": {
-          "x": 0.12,
-          "y": -0.39,
-          "z": -0.44
+          "x": 0.805,
+          "y": 0.295,
+          "z": 1.063
         },
         "target": {
-          "x": -0.08,
-          "y": -0.53,
-          "z": -0.58
+          "x": -0.287,
+          "y": -0.681,
+          "z": -0.900
         }
       }
     },
@@ -152,20 +156,20 @@
       "title": "Mazda Skyactiv Technology",
       "description": "a holistic engineering philosophy introduced in 2011 to optimize a vehicle's entire ecosystem—including the engine, transmission, body, and chassis—to maximize performance and fuel efficiency without relying solely on electrification.",
       "hotspot_position": {
-        "x": 1.38,
-        "y": -0.58,
-        "z": -0.21
+        "x": 1.381,
+        "y": -0.575,
+        "z": -0.183
       },
       "camera_flight": {
         "position": {
-          "x": 1.78,
-          "y": -0.44,
-          "z": -0.21
+          "x": 1.964,
+          "y": -0.433,
+          "z": -0.130
         },
         "target": {
-          "x": 1.38,
-          "y": -0.58,
-          "z": -0.21
+          "x": -0.829,
+          "y": -1.167,
+          "z": -0.460
         }
       }
     }
